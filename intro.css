@@ -1,0 +1,36 @@
+body {
+    background-color: darkred;
+    color: black;
+    background-image: url(/img/trivia1.png);
+    font-family:Arial, Helvetica, sans-serif;
+   
+
+}
+/* h1 {
+    
+    font-size: 65px;
+} */
+
+h2{
+    color: white;
+    position: absolute;
+    top: 475px;
+    left: 315px;
+}
+h3 {
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 300px;
+}
+button{
+    background-color: goldenrod;
+    color: white;
+    font-size: 40px;
+    border-radius: 13px;
+    position: absolute;
+    left: 500px;
+    top: 600px;
+    
+    
+}
