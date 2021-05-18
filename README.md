@@ -1,5 +1,23 @@
 # Trivia-Final
 
+## Project 1 Duncan Steele 
+
+
+# Trivia 
+My game is called Trivia. It’s a game for players who want to test their knowledge of my favorite categories. At this time only one player can play per round but there’s more than enough trivia so it never gets old. No need to keep score. That will all be done for you. You need to get at least half of the questions right in order to win. 
+
+
+# LANGUAGES USED 
+Javascript
+HTML
+CSS
+
+# Player Walk Through
+-Read the rules then select the start button to pick your category 
+-Select your category to begin 
+-Answer each question with the correct answer to win the game
+-A reset button is added if you wish to start over
+-A back button is also able for use if you wish to choose another category
 
 # Major Hurdles 
 - To register the answers as correct
